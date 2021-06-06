@@ -1,7 +1,7 @@
 # HuffmanEncoding
 Programmed Huffman Encoding Algorithm for data compression
 
-#Procedures
+# Procedures
  Huffman encoding steps:
  1. build a frequency table.
  2. build a tree using priority queue.
